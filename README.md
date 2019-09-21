@@ -6,6 +6,6 @@
 
 # Usage
 git clone git@github.com:SusanGuy/Basic-TICTACTOE.git
-cd ./tic-tac-toe/src_
-javac TicTacToe.java_
+cd ./tic-tac-toe/src <br />
+javac TicTacToe.java <br />
 java TicTacToe
