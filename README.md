@@ -9,3 +9,6 @@ git clone git@github.com:SusanGuy/Basic-TICTACTOE.git <br />
 cd ./tic-tac-toe/src <br />
 javac TicTacToe.java <br />
 java TicTacToe
+
+# Requirements
+  This project is built using Eclipse IDE.
